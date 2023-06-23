@@ -19,4 +19,4 @@ I have +1 year of experience as a frontend developer, here you will find project
 
 ### if you like leave me a star ⭐
 
-[![img](./dist/src/img/project.png)](https://dayerlin.com/)
+[![img](./dist/src/img/project.png)]([https://dayerlin.com/](https://cotiza-seguro-coche.netlify.app)https://cotiza-seguro-coche.netlify.app)
